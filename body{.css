@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 240, 246);
+}
+.mp{
+    color: rgb(216, 160, 221);
+    font-size: 50px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+.ac{
+    color: rgb(63, 15, 103);
+    font-size: 15px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    padding: 5px;
+    margin: 5px;
+}
